@@ -1,15 +1,15 @@
 ﻿using System.Diagnostics.Metrics;
 
-internal class TrieuLeUyen_31231020264
+internal class Chuong_02
 {
-    private static void Main(string[] args)
+    private static void Main1(string[] args)
     {
         //Question_01();
         //Question_02();
         //Question_03();
         //Question_04();
         //Question_05();
-        Question_06();
+        //Question_06();
         //Question_07();
         //Question_08();
         //Question_09();

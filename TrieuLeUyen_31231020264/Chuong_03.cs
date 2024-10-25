@@ -3,7 +3,7 @@ namespace TrieuLeUyen_31231020264
 {
     internal class Chuong_03
     {
-        private static void Main(string[] args)
+        private static void Main2(string[] args)
         {
             //Question_01();
             //Question_02();
